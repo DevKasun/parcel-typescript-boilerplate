@@ -1,0 +1,16 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "description": "Simple parcel js boilerplate for start Typescript or any Javascript app",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5",
+    "typescript": "^3.9.3"
+  }
+}
